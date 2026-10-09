@@ -4,7 +4,7 @@
 	Как поставить:
 	  1. Explorer > StarterPlayer > StarterPlayerScripts > (+) LocalScript
 	  2. Вставь туда весь этот код
-	  3. Lighting > Technology = Future (для максимального качества)
+	  3. Lighting > LightingStyle = Realistic и PrioritizeLightingQuality = включено (для максимального качества)
 	  4. Нажми Play
 
 	Клавиша P — повторить пролёт камеры.

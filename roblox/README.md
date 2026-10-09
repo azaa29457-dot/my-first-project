@@ -15,7 +15,7 @@
 2. В **Explorer** найди `StarterPlayer` → `StarterPlayerScripts`.
 3. Нажми `+` → **LocalScript**.
 4. Скопируй весь код из [`PortalShowcase.client.lua`](PortalShowcase.client.lua) и вставь в этот скрипт.
-5. Для максимального качества выбери `Lighting` и в **Properties** поставь `Technology = Future`.
+5. Для максимального качества выбери `Lighting` и в **Properties** поставь `LightingStyle = Realistic` и включи `PrioritizeLightingQuality`. (Раньше это называлось `Technology = Future`, в новых версиях Studio этого свойства уже нет.) Меняй это, когда игра **не запущена**: всё, что поменяно во время Play, сбрасывается после Stop.
 6. Нажми **Play**.
 
 Портал появится перед персонажем, и сразу запустится заставка. Чтобы посмотреть её ещё раз, нажми **P**.
